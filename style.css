@@ -108,7 +108,7 @@ min-width: 100;
    .btn {
     text-align: center;
     position: absolute;
-    top: 61% !important;
+    top: 65% !important;
     left:50%;
     transform: translateX(-50%);
    
@@ -166,7 +166,7 @@ i:hover::after{
 
 
 
-  /* /* @media (min-width: 500px) { 
+  /* /* /* @media (min-width: 500px) { 
     
     .btn.btn-lg {
       text-align: center;
@@ -182,4 +182,4 @@ i:hover::after{
   
    
 
-   } */
+   
