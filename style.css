@@ -48,8 +48,8 @@ width: 100%;
 }
 
 #content {
-  text-align: center;;
-  padding-top: 22%;
+  text-align: center;
+  margin-top: 22%;
  
   
   }
@@ -202,8 +202,17 @@ i:hover::after{
     } */
     
  
+@media screen and (max-width: 379px)
+  {
 
-  
+    #content {
+      text-align: center;
+      margin-top: 190px !important;
+     
+      
+      }
+
+  }
 
 
  
