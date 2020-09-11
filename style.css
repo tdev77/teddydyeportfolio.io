@@ -18,14 +18,13 @@ padding-top: 15px;
 }
 
 .skills img {
-  max-width: 28%;
+  width: 25%;
   float: left;
   
 }
 
 .skills h5 {
- 
-
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 
 }
 
@@ -131,8 +130,8 @@ min-width: 100;
    
   }
 
-img {
-max-width: 45px;
+#content img {
+width: 3%;
 margin: auto;
 }
 
