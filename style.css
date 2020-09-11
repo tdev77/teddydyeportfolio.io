@@ -1,7 +1,6 @@
 
 
-
-
+  
 .footer {
   position: absolute;
   bottom: 0;
@@ -12,6 +11,24 @@
   text-align: center;
  
 }
+
+.skills {
+padding-top: 15px;
+
+}
+
+.skills img {
+  max-width: 28%;
+  float: left;
+  
+}
+
+.skills h5 {
+ 
+
+
+}
+
 
 html {
   position: relative;
@@ -113,6 +130,14 @@ min-width: 100;
     transform: translateX(-50%);
    
   }
+
+img {
+max-width: 45px;
+margin: auto;
+}
+
+
+
 
 
 
